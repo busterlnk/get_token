@@ -1,0 +1,9 @@
+1ro se deben exportar al programa el client id y secret de spotify developers
+
+abrir la consola ubidada en la raiz de get_token,
+Ejecutar: 
+
+export SPOTIFY_CLIENT_ID=(aqui ingresar el client_id)
+export SPOTIFY_CLIENT_SECRET=(aqui ingresar el client_secret)
+
+una vez hecho esto se puede ejecutar el comando de npm run start
